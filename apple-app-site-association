@@ -4,6 +4,7 @@
 		"details": [{
 			"appID": "au.com.qual.mytelstradebug",
 			"paths": [
+				"openinapp",
 
 				"/services",
 				"/services/service-summary",
