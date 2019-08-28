@@ -20,7 +20,7 @@
 				"/get-help",
 				"/get-help/orders",
 				"/get-help/order-history",
-				"/get-help/order-details",
+				"/get-help/order-details/*",
 
 				"/profile",
 				"/profile/update-personal-details",
