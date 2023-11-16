@@ -122,7 +122,7 @@
 				]
 			},
 			{
-				"appID": "WX7MVUN5ZX.com.telstra.dev.mytelstradep.linking",
+				"appID": "P3EY7F2697.com.telstra.telstra24x7iphone.clip",
 				"paths": [
 					"/services",
 					"/services/service-summary",
@@ -149,7 +149,7 @@
 			},
 			{
     				"appclips": {
-        			"apps": ["WX7MVUN5ZX.com.telstra.dev.mytelstradep.linking.clip"]
+        			"apps": ["P3EY7F2697.com.telstra.telstra24x7iphone.clip"]
     			}
 		} 
 		]
