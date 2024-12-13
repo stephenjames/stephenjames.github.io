@@ -1,157 +1,19 @@
 {
-	"webcredentials": {
-		"apps": [
-			"P3EY7F2697.com.telstra.telstra24x7iphone",
-			"M7T5YNZ969.com.telstra.telstra24x7dev.phone.pvt",
-			"M7T5YNZ969.com.telstra.telstra24x7dev.phone.beta",
-			"M7T5YNZ969.com.telstra.telstra24x7dev.phone.staging",
-			"M7T5YNZ969.com.telstra.telstra24x7dev.phone.uat", 
-			"M7T5YNZ969.com.telstra.telstra24x7dev.phone.frankified",
-			"P3EY7F2697.com.telstra.telstraair",
-			"M7T5YNZ969.com.telstra.telstraairdev",
-			"P3EY7F2697.com.telstra.wifimaximiser",
-			"M7T5YNZ969.com.telstra.telstra24x7dev.homedashboard",
-			"M7T5YNZ969.com.telstra.dev.mytelstra",
-			"P3EY7F2697.com.telstra.mytelstra"
-		]
-	},
-	"applinks": {
-		"apps": [],
-		"details": [{
-				"appID": "M7T5YNZ969.com.telstra.dev.mytelstra",
-				"paths": [
-					"/services",
-					"/services/service-summary",
-					"/services/disconnect-service",
-
-					"/payments",
-					"/payments/bills",
-					"payments/payment-history",
-					"payments/payment-details",
-
-					"/explore",
-
-					"/get-help",
-					"/get-help/orders/*",
-					"/get-help/order-history",
-
-					"/profile",
-					"/profile/update-personal-details",
-					"/profile/payment-settings",
-					"/profile/sign-in-details",
-					"/profile/shared-access",
-					"/profile/marketing"
-				]
-			},
-			{
-				"appID": "P3EY7F2697.com.telstra.mytelstra",
-				"paths": [
-					"/services",
-					"/services/service-summary",
-					"/services/disconnect-service",
-
-					"/payments",
-					"/payments/bills",
-					"payments/payment-history",
-					"payments/payment-details",
-
-					"/explore",
-
-					"/get-help",
-					"/get-help/orders/*",
-					"/get-help/order-history",
-
-					"/profile",
-					"/profile/update-personal-details",
-					"/profile/payment-settings",
-					"/profile/sign-in-details",
-					"/profile/shared-access",
-					"/profile/marketing"
-				]
-			},
-			{
-				"appID": "P3EY7F2697.com.telstra.telstra24x7iphone",
-				"paths": [
-					"/services",
-					"/services/service-summary",
-					"/services/disconnect-service",
-
-					"/payments",
-					"/payments/bills",
-					"payments/payment-history",
-					"payments/payment-details",
-
-					"/explore",
-
-					"/get-help",
-					"/get-help/orders/*",
-					"/get-help/order-history",
-
-					"/profile",
-					"/profile/update-personal-details",
-					"/profile/payment-settings",
-					"/profile/sign-in-details",
-					"/profile/shared-access",
-					"/profile/marketing"
-				]
-			},
-			{
-				"appID": "M7T5YNZ969.com.telstra.telstra24x7dev.phone.uat",
-				"paths": [
-					"/services",
-					"/services/service-summary",
-					"/services/disconnect-service",
-
-					"/payments",
-					"/payments/bills",
-					"payments/payment-history",
-					"payments/payment-details",
-
-					"/explore",
-
-					"/get-help",
-					"/get-help/orders/*",
-					"/get-help/order-history",
-
-					"/profile",
-					"/profile/update-personal-details",
-					"/profile/payment-settings",
-					"/profile/sign-in-details",
-					"/profile/shared-access",
-					"/profile/marketing"
-				]
-			},
-			{
-				"appID": "P3EY7F2697.com.telstra.telstra24x7iphone.clip",
-				"paths": [
-					"/services",
-					"/services/service-summary",
-					"/services/disconnect-service",
-
-					"/payments",
-					"/payments/bills",
-					"payments/payment-history",
-					"payments/payment-details",
-
-					"/explore",
-
-					"/get-help",
-					"/get-help/orders/*",
-					"/get-help/order-history",
-
-					"/profile",
-					"/profile/update-personal-details",
-					"/profile/payment-settings",
-					"/profile/sign-in-details",
-					"/profile/shared-access",
-					"/profile/marketing"
-				]
-			},
-			{
-    				"appclips": {
-        			"apps": ["P3EY7F2697.com.telstra.telstra24x7iphone.clip"]
-    			}
-		} 
-		]
-	}
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "P3EY7F2697.com.telstra.telstra24x7iphone",
+        "paths": [
+          "/mobile-phones/mobiles-on-a-plan/samsung/galaxy-s24-ultra"
+        ]
+      },
+      {
+        "appID": "M7T5YNZ969.com.telstra.telstra24x7dev.phone.debug",
+        "paths": [
+          "/mobile-phones/mobiles-on-a-plan/samsung/galaxy-s24-ultra"
+        ]
+      }
+    ]
+  }
 }
